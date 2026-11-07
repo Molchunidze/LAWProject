@@ -239,37 +239,6 @@
 
 ---
 
-## 📂 Структура репозитория
-
-```text
-pravokeys-tz/
-│
-├── README.md
-│
-├── docs/
-│   ├── 01-general-information/
-│   ├── 02-goals-and-purpose/
-│   ├── 03-automation-object/
-│   ├── 04-system-requirements/
-│   ├── 05-work-content/
-│   ├── 06-development-procedure/
-│   ├── 07-acceptance/
-│   ├── 08-implementation/
-│   ├── 09-documentation/
-│   └── 10-sources/
-│
-├── diagrams/
-│   ├── business-processes/
-│   ├── functional-architecture/
-│   └── system-structure/
-│
-└── reports/
-    ├── team-responsibilities.md
-    └── project-report.md
-```
-
----
-
 ## 📅 Этапы реализации проекта
 
 1. **Планирование** — формирование команды, распределение ролей и создание GitHub.
